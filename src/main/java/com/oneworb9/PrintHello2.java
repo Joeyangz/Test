@@ -11,6 +11,10 @@ public class PrintHello2 {
     }
 
     public static void getName() {
-        System.out.println("Hello");
+        System.out.println("world");
+    }
+
+    public static void getAge() {
+        System.out.println("18");
     }
 }
